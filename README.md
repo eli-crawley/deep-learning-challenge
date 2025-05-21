@@ -33,7 +33,6 @@ The goal of this analysis is to create a neural network model that predicts whet
     * Hyperparameter tuning (changing number of neurons and layers).
     * Trying different batch sizes and epochs.
     * Testing additional hidden layers and dropout layers (not shown to improve significantly).
-    * Testing additional hidden layers and dropout layers (not shown to improve significantly).
 
 ## Summary
 * The neural network achieved ~72.5% accuracy, which is close but below the target of 75%.
